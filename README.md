@@ -1,2 +1,2 @@
 # Monet2Photo-CycleGAN
-A PyTorch implementation of the CycleGAN model for image translation
+This is a PyTorch implementation of the CycleGAN model for image translation between the domains of monet like paintings and photographs. The details of the network architechture and training are in the paper in the references section. I wasn't able to train my model to the recommended 200 epochs due to the large training time of a few days and the unavailability of a free GPU for that duration.
